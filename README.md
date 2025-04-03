@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hershy Schwartz 
 - 👀 I’m interested in AI, blockchain, quantum computing, and all cool stuff 
-- 🌱 I’m currently starting my journey in programming, currently learning web development on Free Code Camp 
+- 🌱 I’m currently in the beginning of my journey as a software engineer, currently learning web development on FreeCodeCamp.org 
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me: hershy8094@gmail.com
 
