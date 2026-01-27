@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hershey Schwartz. 
 - 🌱 I’m a full stack developer.
-- 🤖 I code in JavaScript, TypeScript, Python, Bash, React, and SQL. 
+- 🤖 I code in JavaScript, TypeScript, Python, Liquid, Bash, React, and SQL. 
 - 💞️ I’m looking to collaborate on open source projects.
 - 🔎 The repos you'll find here are some small projects I did along my journey learning to code, mostly from freeCodeCamp.
 - 🫠 To read polished AI slop, go read any other profile on the web. 
